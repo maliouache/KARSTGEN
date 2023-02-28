@@ -1,19 +1,16 @@
 #KARSTGEN1.0
+Aliouache M., Jourde H. and Wang X. 2023
 
 KarstGen was developped in HydroSciences Montpellier - Part of the tool was developped within the framework of KARMA Project (http://karma-project.org/)
 
-Aliouache M., Jourde H. and Wang X. 2023
-
 Correspondance:
-	(mohammed.aliouache@umontpellier.fr)
-	(herve.jourde@umontpellier.fr)
+(mohammed.aliouache@umontpellier.fr)
+(herve.jourde@umontpellier.fr)
 
 To cite:
-	
-	Aliouache M., Jourde H. and Wang X., (2023) KARSTGEN : Incipient karst genesis in fractured carbonate rocks, Github: https://www.github.com/maliouache/KARSTGEN
+Aliouache M., Jourde H. and Wang X., (2023) KARSTGEN : Incipient karst genesis in fractured carbonate rocks, Github: https://www.github.com/maliouache/KARSTGEN
 
 Description:
-	
 	This code simulate incipient karst genesis in 2D discrete fracture networks for limestone. 
 	It couples fluid flow and reactive solute transport in fractures using a two parrallel plates model.
 		1. One dimensional discretization (segments) for flow and transport models
@@ -23,18 +20,13 @@ Description:
 	The code will automatically extract the backbone of the discrete fracture network, thus, please make sure to have a well connected DFN.
 	
 Assumptions:
-	
 	- Quasi-stationary approximation (Ortleva et al. 1987; Lichtner 1988)
 	- Instant mixing from the fracture wall to the middle of the fracture (high flow velocity location) – Advection limited reaction
 	- Linear reaction kinetics
 	- Fully saturated medium
-	
-Installation:
-	
 
 To use:
-	
-	The code requieres matlab core to be installed to work (a standalone application with requiered installable programs is found in Install/ folder)
+The code requieres matlab core to be installed to work (a standalone application with requiered installable programs is found in Install/ folder)
 		
 	Step 1: Prepare the initial DFN to use in the simulation by respecting the following format,
 		the DFN is defined by a descritized fractures into segments(please, make sure that all the intersections are defined as a node)
@@ -79,6 +71,5 @@ To use:
 	Step 4: the results are saved inside the defined ooutput folder (default: ./Output)
 	
 Applications:
-
 Aliouache, M., Wang, X., Jourde, H., Huang, Z., & Yao, J. (2019). Incipient karst formation in carbonate rocks: Influence of fracture network topology. Journal of Hydrology, 575, 824-837. Doi: https://doi.org/10.1016/j.jhydrol.2019.05.082 
 	
