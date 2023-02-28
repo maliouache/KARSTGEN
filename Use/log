@@ -1,0 +1,572 @@
+Warning: Directory already exists.
+> In MainGrowth (line 8)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+D0=2 D1=1.9351 D2=1.8843
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-head-Hin1-dt31536000\Workspace\workspace0001.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration2
+Rate: 4.271e-06 m^3/s
+D0=2 D1=1.9366 D2=1.886
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-head-Hin1-dt31536000\Workspace\workspace0002.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration3
+Rate: 4.5699e-06 m^3/s
+D0=2 D1=1.9367 D2=1.886
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-head-Hin1-dt31536000\Workspace\workspace0003.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration4
+Rate: 4.603e-06 m^3/s
+D0=2 D1=1.9368 D2=1.8862
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-head-Hin1-dt31536000\Workspace\workspace0004.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration5
+Rate: 4.6167e-06 m^3/s
+D0=2 D1=1.9369 D2=1.8863
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-head-Hin1-dt31536000\Workspace\workspace0005.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration6
+Rate: 4.6232e-06 m^3/s
+D0=2 D1=1.9369 D2=1.8863
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-head-Hin1-dt31536000\Workspace\workspace0006.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration7
+Rate: 4.6274e-06 m^3/s
+D0=2 D1=1.937 D2=1.8864
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-head-Hin1-dt31536000\Workspace\workspace0007.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration8
+Rate: 4.6326e-06 m^3/s
+D0=2 D1=1.9371 D2=1.8864
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-head-Hin1-dt31536000\Workspace\workspace0008.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration9
+Rate: 4.6435e-06 m^3/s
+D0=2 D1=1.9372 D2=1.8863
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-head-Hin1-dt31536000\Workspace\workspace0009.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration10
+Rate: 4.6605e-06 m^3/s
+Found 9 images 
+Writer object parameters:
+
+    General Properties:
+
+       Filename:                 'Concentration.mp4'
+       Path:                     'D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-head-Hin1-dt31536000'
+       FileFormat:               'mp4'
+       Duration:                 0
+
+    Video Properties:
+
+       ColorChannels:            3
+       Height:                   []
+       Width:                    []
+       FrameCount:               0
+       FrameRate:                24
+       VideoBitsPerPixel:        24
+       VideoFormat:              'RGB24'
+       VideoCompressionMethod:   'H.264'
+       Quality:                  75
+
+Number of images to export: 9
+
+
+Running Export...
+Percent Done (%)	Time Remaining (s)
+Warning: The video's width and height has been padded to be a multiple of two as required by the H.264 codec.
+
+Done! Elapsed time: 0.24 s
+Opening in external player:
+'open' is not recognized as an internal or external command, 
+operable program or batch file. 
+Found 9 images 
+Writer object parameters:
+
+    General Properties:
+
+       Filename:                 'Pressure.mp4'
+       Path:                     'D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-head-Hin1-dt31536000'
+       FileFormat:               'mp4'
+       Duration:                 0
+
+    Video Properties:
+
+       ColorChannels:            3
+       Height:                   []
+       Width:                    []
+       FrameCount:               0
+       FrameRate:                24
+       VideoBitsPerPixel:        24
+       VideoFormat:              'RGB24'
+       VideoCompressionMethod:   'H.264'
+       Quality:                  75
+
+Number of images to export: 9
+
+
+Running Export...
+Percent Done (%)	Time Remaining (s)
+Warning: The video's width and height has been padded to be a multiple of two as required by the H.264 codec.
+
+Done! Elapsed time: 0.17 s
+Opening in external player:
+'open' is not recognized as an internal or external command, 
+operable program or batch file. 
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-head-Hin1-dt31536000\workspace.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 266)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+Done-signal.Warning: Directory already exists.
+> In MainGrowth (line 8)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+D0=2 D1=1.9287 D2=1.8756
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-rate-Hin0.0001-dt31536000\Workspace\workspace0001.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration2
+Rate: 0.0014 m^3/s
+D0=2 D1=1.915 D2=1.856
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-rate-Hin0.0001-dt31536000\Workspace\workspace0002.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration3
+Rate: 0.0014 m^3/s
+Found 2 images 
+Writer object parameters:
+
+    General Properties:
+
+       Filename:                 'Concentration.mp4'
+       Path:                     'D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-rate-Hin0.0001-dt31536000'
+       FileFormat:               'mp4'
+       Duration:                 0
+
+    Video Properties:
+
+       ColorChannels:            3
+       Height:                   []
+       Width:                    []
+       FrameCount:               0
+       FrameRate:                24
+       VideoBitsPerPixel:        24
+       VideoFormat:              'RGB24'
+       VideoCompressionMethod:   'H.264'
+       Quality:                  75
+
+Number of images to export: 2
+
+
+Running Export...
+Percent Done (%)	Time Remaining (s)
+Warning: The video's width and height has been padded to be a multiple of two as required by the H.264 codec.
+
+Done! Elapsed time: 0.08 s
+Opening in external player:
+'open' is not recognized as an internal or external command, 
+operable program or batch file. 
+Found 2 images 
+Writer object parameters:
+
+    General Properties:
+
+       Filename:                 'Pressure.mp4'
+       Path:                     'D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-rate-Hin0.0001-dt31536000'
+       FileFormat:               'mp4'
+       Duration:                 0
+
+    Video Properties:
+
+       ColorChannels:            3
+       Height:                   []
+       Width:                    []
+       FrameCount:               0
+       FrameRate:                24
+       VideoBitsPerPixel:        24
+       VideoFormat:              'RGB24'
+       VideoCompressionMethod:   'H.264'
+       Quality:                  75
+
+Number of images to export: 2
+
+
+Running Export...
+Percent Done (%)	Time Remaining (s)
+Warning: The video's width and height has been padded to be a multiple of two as required by the H.264 codec.
+
+Done! Elapsed time: 0.081 s
+Opening in external player:
+'open' is not recognized as an internal or external command, 
+operable program or batch file. 
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\x-direction-cst-rate-Hin0.0001-dt31536000\workspace.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 266)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+Done-signal.Warning: Directory already exists.
+> In MainGrowth (line 8)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+D0=2 D1=1.8218 D2=1.6965
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-head-Hin1e-05-dt31536000\Workspace\workspace0001.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration2
+Rate: 8.3156e-11 m^3/s
+D0=2 D1=1.8138 D2=1.6777
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-head-Hin1e-05-dt31536000\Workspace\workspace0002.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration3
+Rate: 9.8975e-11 m^3/s
+Found 2 images 
+Writer object parameters:
+
+    General Properties:
+
+       Filename:                 'Concentration.mp4'
+       Path:                     'D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-head-Hin1e-05-dt31536000'
+       FileFormat:               'mp4'
+       Duration:                 0
+
+    Video Properties:
+
+       ColorChannels:            3
+       Height:                   []
+       Width:                    []
+       FrameCount:               0
+       FrameRate:                24
+       VideoBitsPerPixel:        24
+       VideoFormat:              'RGB24'
+       VideoCompressionMethod:   'H.264'
+       Quality:                  75
+
+Number of images to export: 2
+
+
+Running Export...
+Percent Done (%)	Time Remaining (s)
+Warning: The video's width and height has been padded to be a multiple of two as required by the H.264 codec.
+
+Done! Elapsed time: 0.078 s
+Opening in external player:
+'open' is not recognized as an internal or external command, 
+operable program or batch file. 
+Found 2 images 
+Writer object parameters:
+
+    General Properties:
+
+       Filename:                 'Pressure.mp4'
+       Path:                     'D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-head-Hin1e-05-dt31536000'
+       FileFormat:               'mp4'
+       Duration:                 0
+
+    Video Properties:
+
+       ColorChannels:            3
+       Height:                   []
+       Width:                    []
+       FrameCount:               0
+       FrameRate:                24
+       VideoBitsPerPixel:        24
+       VideoFormat:              'RGB24'
+       VideoCompressionMethod:   'H.264'
+       Quality:                  75
+
+Number of images to export: 2
+
+
+Running Export...
+Percent Done (%)	Time Remaining (s)
+Warning: The video's width and height has been padded to be a multiple of two as required by the H.264 codec.
+
+Done! Elapsed time: 0.076 s
+Opening in external player:
+'open' is not recognized as an internal or external command, 
+operable program or batch file. 
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-head-Hin1e-05-dt31536000\workspace.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 266)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+Done-signal.Warning: Directory already exists.
+> In MainGrowth (line 8)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+D0=2 D1=1.8699 D2=1.7382
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-rate-Hin1e-05-dt31536000\Workspace\workspace0001.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration2
+Rate: 3.9691e-05 m^3/s
+D0=2 D1=1.8637 D2=1.7174
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-rate-Hin1e-05-dt31536000\Workspace\workspace0002.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration3
+Rate: 3.9966e-05 m^3/s
+D0=2 D1=1.8522 D2=1.6832
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-rate-Hin1e-05-dt31536000\Workspace\workspace0003.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration4
+Rate: 4.0529e-05 m^3/s
+D0=2 D1=1.8329 D2=1.6397
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-rate-Hin1e-05-dt31536000\Workspace\workspace0004.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration5
+Rate: 4.24e-05 m^3/s
+D0=2 D1=1.7922 D2=1.5566
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-rate-Hin1e-05-dt31536000\Workspace\workspace0005.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration6
+Rate: 4.7273e-05 m^3/s
+D0=2 D1=1.7627 D2=1.499
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-rate-Hin1e-05-dt31536000\Workspace\workspace0006.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration7
+Rate: 4.966e-05 m^3/s
+D0=2 D1=1.7492 D2=1.4835
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-rate-Hin1e-05-dt31536000\Workspace\workspace0007.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 217)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+iteration8
+Rate: 4.9917e-05 m^3/s
+Found 7 images 
+Writer object parameters:
+
+    General Properties:
+
+       Filename:                 'Concentration.mp4'
+       Path:                     'D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-rate-Hin1e-05-dt31536000'
+       FileFormat:               'mp4'
+       Duration:                 0
+
+    Video Properties:
+
+       ColorChannels:            3
+       Height:                   []
+       Width:                    []
+       FrameCount:               0
+       FrameRate:                24
+       VideoBitsPerPixel:        24
+       VideoFormat:              'RGB24'
+       VideoCompressionMethod:   'H.264'
+       Quality:                  75
+
+Number of images to export: 7
+
+
+Running Export...
+Percent Done (%)	Time Remaining (s)
+Warning: The video's width and height has been padded to be a multiple of two as required by the H.264 codec.
+
+Done! Elapsed time: 0.15 s
+Opening in external player:
+'open' is not recognized as an internal or external command, 
+operable program or batch file. 
+Found 7 images 
+Writer object parameters:
+
+    General Properties:
+
+       Filename:                 'Pressure.mp4'
+       Path:                     'D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-rate-Hin1e-05-dt31536000'
+       FileFormat:               'mp4'
+       Duration:                 0
+
+    Video Properties:
+
+       ColorChannels:            3
+       Height:                   []
+       Width:                    []
+       FrameCount:               0
+       FrameRate:                24
+       VideoBitsPerPixel:        24
+       VideoFormat:              'RGB24'
+       VideoCompressionMethod:   'H.264'
+       Quality:                  75
+
+Number of images to export: 7
+
+
+Running Export...
+Percent Done (%)	Time Remaining (s)
+Warning: The video's width and height has been padded to be a multiple of two as required by the H.264 codec.
+
+Done! Elapsed time: 0.15 s
+Opening in external player:
+'open' is not recognized as an internal or external command, 
+operable program or batch file. 
+Warning: Figure is saved in D:\After_PhD\2023-01-06\Karma_Fev8\releases_pcode\Karst_Gen1.0\Use\Output\rnd-direction-cst-rate-Hin1e-05-dt31536000\workspace.mat. Saving graphics handle variables can cause the creation of very large files. To save graphics figures, use <a  href="matlab:helpview([docroot,'/techdoc/ref/savefig.html'])">savefig</a>.
+> In MainGrowth (line 266)
+In Karst_Genesis_DFN_Interface>pushbuttonRun_Callback (line 129)
+In gui_mainfcn (line 95)
+In Karst_Genesis_DFN_Interface (line 42)
+In matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonRun_Callback',hObject,eventdata,guidata(hObject))
+In waitforallfiguresclosed (line 20)
+Done-signal.Error using winopen (line 37)
+The specified file does not exist.
+
+Error in Karst_Genesis_DFN_Interface>pushbuttonResultsFolder_Callback (line 149)
+
+Error in gui_mainfcn (line 95)
+
+Error in Karst_Genesis_DFN_Interface (line 42)
+
+Error in matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonResultsFolder_Callback',hObject,eventdata,guidata(hObject))
+
+Error while evaluating UIControl Callback.
+
+Error using winopen (line 37)
+The specified file does not exist.
+
+Error in Karst_Genesis_DFN_Interface>pushbuttonResultsFolder_Callback (line 149)
+
+Error in gui_mainfcn (line 95)
+
+Error in Karst_Genesis_DFN_Interface (line 42)
+
+Error in matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonResultsFolder_Callback',hObject,eventdata,guidata(hObject))
+
+Error while evaluating UIControl Callback.
+
+Error using winopen (line 37)
+The specified file does not exist.
+
+Error in Karst_Genesis_DFN_Interface>pushbuttonResultsFolder_Callback (line 149)
+
+Error in gui_mainfcn (line 95)
+
+Error in Karst_Genesis_DFN_Interface (line 42)
+
+Error in matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonResultsFolder_Callback',hObject,eventdata,guidata(hObject))
+
+Error while evaluating UIControl Callback.
+
+Error using winopen (line 37)
+The specified file does not exist.
+
+Error in Karst_Genesis_DFN_Interface>pushbuttonResultsFolder_Callback (line 149)
+
+Error in gui_mainfcn (line 95)
+
+Error in Karst_Genesis_DFN_Interface (line 42)
+
+Error in matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)Karst_Genesis_DFN_Interface('pushbuttonResultsFolder_Callback',hObject,eventdata,guidata(hObject))
+
+Error while evaluating UIControl Callback.
+
