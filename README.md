@@ -22,7 +22,7 @@ Description:
 	
 Assumptions:
 	- Quasi-stationary approximation (Ortleva et al. 1987; Lichtner 1988)
-	- Instant mixing from the fracture wall to the middle of the fracture (high flow velocity location) – Advection limited reaction
+	- Instant mixing from the fracture wall to the middle of the fracture (high flow velocity location) â€“ Advection limited reaction
 	- Linear reaction kinetics
 	- Fully saturated medium
 	
