@@ -34,9 +34,8 @@ Install matlab Runtime from Install/ folder
 ## To use:
 The code requieres matlab core to be installed to work (a standalone application with requiered installable programs is found in Install/ folder)
 		
-### Step 1: Prepare the initial DFN to use in the simulation by respecting the following format,
-the DFN is defined by a descritized fractures into segments(please, make sure that all the intersections are defined as a node)
-the segments are then provided in the segments.txt input file as below:
+### Step 1: 
+Prepare the initial DFN to use in the simulation by respecting the following format: the DFN is defined by a descritized fractures into segments(please, make sure that all the intersections are defined as a node). The segments are then provided in the segments.txt input file as below:
 
 	X1		Y1		X2		Y2		Aperture
 	.		.		.		.		.
@@ -50,28 +49,16 @@ Save the segments defining the DFN in .txt or .mat format and launch KarstGen pr
 	
 ### Step 3: 
 Load the segments file then define the different input parameter (default values are already provided):
-
-	#output folder
-	Output			--> defines the name of the folder containing the segments.txt file
-	#flow direction
-	x-direction	--> defines the flow boundary direction type (can be: x-direction, y-direction or concentrated recharge points). Note that rnd-direction will randomly defines nodes in the model as input and output (10 input points and one output point)
-	# constant head or constant flow
-	cst-rate		--> defines the type of flow boundary condition (can be: cst-head or cst-rate)
-	#Hin or Qin
-	4e-5			--> defines the input value for flow (in case of constant head boundary condition, please provide the hydraulic head at the input nodes in meters, else, in case of constant rate boundary condition, please provide the flow rate for the input points in m3/s)
-	#Hout
-	0				--> defines the hydraulic head at the boundary condition (default set to 0 m)
-	#dt timestep (in seconds)
-	315360000		--> defines the dissolution timestep  in seconds
-	#Kinetics of the reaction
-	2.5e-7			--> defines the kinetics of limestone dissolution
-	#max number of iterations
-	250				--> defines the maximum number of iteration as a stop condition. Note that the simulation will automatically stop if the Reynolds number exceeds Re>2100
-	#Water dynamic viscosity (in Pa.s)
-	0.001				--> defines the water dynamic viscosity and displays the equivalent temperature
-	#Equilibrium concentration (in Mole/m3)
-	2				--> defines the calcium (Ca2+) equilibrium concentration
-		
+- Output folder					--> defines the name of the folder containing the segments.txt file
+- Flow direction				--> defines the flow boundary direction type (can be: x-direction, y-direction or concentrated recharge points). Note that rnd-direction will randomly defines nodes in the model as input and output (10 input points and one output point)
+- Flow type					--> defines the type of flow boundary condition (can be: constant head or constant flow)
+- Hin or Qin					--> defines the input value for flow (in case of constant head boundary condition, please provide the hydraulic head at the input nodes in meters, else, in case of constant rate boundary condition, please provide the flow rate for the input points in m3/s)
+- Hout						--> defines the hydraulic head at the boundary condition (default set to 0 m)
+- Dissolution time step dt (in seconds)		--> defines the dissolution timestep  in seconds
+- Kinetics of the reaction			--> defines the kinetics of limestone dissolution
+- Max number of iterations			--> defines the maximum number of iteration as a stop condition. Note that the simulation will automatically stop if the Reynolds number exceeds Re>2100
+- Water dynamic viscosity (in Pa.s)		--> defines the water dynamic viscosity and displays the equivalent temperature
+- Equilibrium concentration (in Mole/m3)	--> defines the calcium (Ca2+) equilibrium concentration
 		
 ### Step 4: 
 Launch the simulation by clicking on Run button
