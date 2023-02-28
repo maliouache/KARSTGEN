@@ -1,11 +1,8 @@
 # KARSTGEN1.0
-<img src="img/LogoKG.png" width="100%" />
-Aliouache M., Jourde H. and Wang X. 2023
+<img src="img/LogoKG.png" width="25%" /> KarstGen was developped in HydroSciences Montpellier (http://www.hydrosciences.org/). 
+Part of the tool was developped within the framework of KARMA Project (http://karma-project.org/)
 
-KarstGen was developped in HydroSciences Montpellier - Part of the tool was developped within the framework of KARMA Project (http://karma-project.org/)
-<img src="img/LogoKARMA.jpg" width="10%" />
-<img src="img/LogoHSM.png" width="10%" />
-<img src="img/LogoUM.png" width="10%" />
+<img src="img/LogoKARMA.jpg" width="10%" /><img src="img/LogoHSM.png" width="7%" /><img src="img/LogoUM.png" width="5%" />
 
 ## Correspondance:
 (mohammed.aliouache@umontpellier.fr)
