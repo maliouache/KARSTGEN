@@ -67,7 +67,7 @@ Load the segments file then define the different input parameters (default value
 Launch the simulation by clicking on Run button
 
 ### Step 5: 
-The results are saved inside the defined ooutput folder (default: ./Output)
+Results are saved inthe the output folder (default: ./Output)
 	
 ## Applications:
 - Aliouache, M., Wang, X., Jourde, H., Huang, Z., & Yao, J. (2019). Incipient karst formation in carbonate rocks: Influence of fracture network topology. Journal of Hydrology, 575, 824-837. Doi: https://doi.org/10.1016/j.jhydrol.2019.05.082 
