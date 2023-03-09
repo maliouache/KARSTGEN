@@ -38,7 +38,7 @@ Install matlab Runtime from Install/ folder
 The code requires matlab core to be installed (a standalone application with required programs is found in Install/ folder)
 		
 ### Step 1: 
-Prepare the initial DFN to use in the simulation by respecting the following format: the DFN is defined by a descritized fractures into segments(please, make sure that all the intersections are defined as a node). The segments are then provided in the segments.txt input file as below:
+Prepare the initial DFN to use in the simulation by respecting the following format: the DFN is defined by discretizing fractures into segments(please, make sure that all the intersections are defined as nodesz). The segments are then provided in the segments.txt input file as below:
 
 	X1		Y1		X2		Y2		Aperture
 	.		.		.		.		.
