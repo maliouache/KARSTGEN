@@ -12,10 +12,10 @@ Mohammed Aliouache (mohammed.aliouache@umontpellier.fr),
 Hervé Jourde (herve.jourde@umontpellier.fr)
 
 ## To cite:
-Aliouache M., Jourde H. and Wang X., (2023) KARSTGEN : Incipient karst genesis in fractured carbonate rocks, Github: https://www.github.com/maliouache/KARSTGEN
+Aliouache M., Jourde H. and Wang X. (2023) KARSTGEN : Incipient karst genesis in fractured carbonate rocks, Github: https://www.github.com/maliouache/KARSTGEN
 
 ## Description:
-This code simulate incipient karst genesis in 2D discrete fracture networks for limestone. It couples fluid flow and reactive solute transport in fractures using a two parrallel plates model.
+This code simulate incipient karst genesis in fractured carbonate rocks for 2D discrete fracture networks. It couples fluid flow and reactive solute transport in fractures using a two parrallel plates model.
 1. One dimensional discretization (segments) for flow and transport models
 2. Mass conservation at intersections
 3. Model only advective flux in network; complete mixing of solute at nodes
