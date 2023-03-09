@@ -54,7 +54,7 @@ Save the segments defining the DFN in .txt or .mat format and launch KarstGen pr
 Load the segments file then define the different input parameters (default values are already provided):
 - Output folder					--> defines the name of the folder containing the segments file
 - Flow direction				--> defines the flow boundary direction type (can be: x-direction, y-direction or concentrated recharge points). Note that rnd-direction will randomly defines nodes in the model as input and output (10 input points and one output point)
-- Flow type					--> defines the type of flow boundary condition (can be: constant head or constant flow)
+- Flow type					--> defines the type of boundary conditions (can be: constant head or constant flow rate)
 - Hin or Qin					--> defines the input value for flow (in case of constant head boundary condition, please provide the hydraulic head at the input nodes in meters, else, in case of constant rate boundary condition, please provide the flow rate for the input points in m3/s)
 - Hout						--> defines the hydraulic head at the boundary condition (default set to 0 m)
 - Dissolution time step dt (in seconds)		--> defines the dissolution timestep  in seconds
