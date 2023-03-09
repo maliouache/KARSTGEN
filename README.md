@@ -35,7 +35,7 @@ The code will automatically extract the backbone of the discrete fracture networ
 Install matlab Runtime from Install/ folder
 
 ## To use:
-The code requieres matlab core to be installed to work (a standalone application with requiered installable programs is found in Install/ folder)
+The code requires matlab core to be installed (a standalone application with required programs is found in Install/ folder)
 		
 ### Step 1: 
 Prepare the initial DFN to use in the simulation by respecting the following format: the DFN is defined by a descritized fractures into segments(please, make sure that all the intersections are defined as a node). The segments are then provided in the segments.txt input file as below:
