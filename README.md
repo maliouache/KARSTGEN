@@ -15,11 +15,10 @@ Hervé Jourde (herve.jourde@umontpellier.fr)
 Aliouache M., Jourde H. and Wang X. (2023) KARSTGEN : Incipient karst genesis in fractured carbonate rocks, Github: https://www.github.com/maliouache/KARSTGEN
 
 ## Description:
-This code simulate incipient karst genesis in fractured carbonate rocks for 2D discrete fracture networks. It couples fluid flow and reactive solute transport in fractures using a two parrallel plates model (Aliouache et al., 2019).
-1. One dimensional discretization (segments) for flow and transport models
-2. Mass conservation at intersections
-3. Model only advective flux in network; complete mixing of solute at nodes
-4. It considers laminar flow (Simulations stop automatically when the Reynolds number exceeds 2100 in one fracture segment)
+This code simulate incipient karst genesis in fractured carbonate rocks for 2D discrete fracture networks. It couples fluid flow and reactive solute transport in fractures, after discretizing (segments)  the DFN for flow and transport simulation, using a two parrallel plates model (Aliouache et al., 2019), according to the following workflow :
+
+
+Simulations stop automatically when Reynolds number exceeds 2100 in one fracture segment (the code is designed for laminar flow, only)
 The code will automatically extract the backbone of the discrete fracture network, thus, please make sure to have a well connected DFN.
 	
 ## Assumptions:
@@ -27,6 +26,10 @@ The code will automatically extract the backbone of the discrete fracture networ
 - Instant mixing from the fracture wall to the middle of the fracture (high flow velocity location) – Advection limited reaction
 - Linear reaction kinetics
 - Fully saturated medium
+- Mass conservation at intersections between fractures (nodes)
+- Flow and transport in fractures only
+- Complete mixing of solute at nodes
+
 	
 ## Installation
 Install matlab Runtime from Install/ folder
