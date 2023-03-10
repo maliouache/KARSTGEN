@@ -17,6 +17,7 @@ Aliouache M., Jourde H. and Wang X. (2023) KARSTGEN : Incipient karst genesis in
 ## Description:
 This code simulate incipient karst genesis in fractured carbonate rocks for 2D discrete fracture networks. It couples fluid flow and reactive solute transport in fractures, after discretizing (segments)  the DFN for flow and transport simulation, using a two parrallel plates model (Aliouache et al., 2019), according to the following workflow :
 
+<img align="center" src="img/wf.png" width="28%" /> 
 
 Simulations stop automatically when Reynolds number exceeds 2100 in one fracture segment (the code is designed for laminar flow, only)
 The code will automatically extract the backbone of the discrete fracture network, thus, please make sure to have a well connected DFN.
