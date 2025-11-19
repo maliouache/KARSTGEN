@@ -4,7 +4,7 @@
 - KarstGen was developped in HydroSciences Montpellier (http://www.hydrosciences.org/).
 - Part of the tool was developped within the framework of KARMA Project (http://karma-project.org/).
 
-<img src="img/LogoSnokarst.jpg" width="10%" /> <img src="img/LogoKARMA.jpg" width="10%" />   <img src="img/LogoHSM.png" width="6%" />   <img src="img/LogoUM.png" width="5%" />
+<img src="img/LogoSnokarst.png" width="10%" /> <img src="img/LogoKARMA.jpg" width="10%" />   <img src="img/LogoHSM.png" width="6%" />   <img src="img/LogoUM.png" width="5%" />
 
 ## Correspondance:
 Mohammed Aliouache (mohammed.aliouache@umontpellier.fr), 
@@ -74,5 +74,6 @@ Results are saved inthe the output folder (default: ./Output)
 - Aliouache, M., Wang, X., Jourde, H., Huang, Z., & Yao, J. (2019). Incipient karst formation in carbonate rocks: Influence of fracture network topology. Journal of Hydrology, 575, 824-837. Doi: https://doi.org/10.1016/j.jhydrol.2019.05.082 
 - Wang, X., Aliouache, M., Wang, Y., Lei, Q., Jourde, H., 2021. The role of aperture heterogeneity in incipient karst evolution in natural fracture networks: insights from numerical simulations. Adv. Water Resour. 156, 104
 	
+
 
 
