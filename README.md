@@ -9,7 +9,7 @@
 
 
 ## Correspondance:
-Mohammed Aliouache (mohammed.aliouache@umontpellier.fr), 
+Mohammed Aliouache (mohammed.aliouache@univ-rouen.fr), 
 
 Hervé Jourde (herve.jourde@umontpellier.fr)
 
@@ -76,6 +76,7 @@ Results are saved inthe the output folder (default: ./Output)
 - Aliouache, M., Wang, X., Jourde, H., Huang, Z., & Yao, J. (2019). Incipient karst formation in carbonate rocks: Influence of fracture network topology. Journal of Hydrology, 575, 824-837. Doi: https://doi.org/10.1016/j.jhydrol.2019.05.082 
 - Wang, X., Aliouache, M., Wang, Y., Lei, Q., Jourde, H., 2021. The role of aperture heterogeneity in incipient karst evolution in natural fracture networks: insights from numerical simulations. Adv. Water Resour. 156, 104
 	
+
 
 
 
